@@ -4,4 +4,5 @@
 ![Ekran görüntüsü 2024-11-12 235559](https://github.com/user-attachments/assets/94de5eee-0c23-4956-a60c-641dd06b9e91)
 
 footbal csv link: https://www.kaggle.com/datasets/vivovinco/20222023-football-player-stats
+
 basketball csv link: https://www.kaggle.com/datasets/justinas/nba-players-data
